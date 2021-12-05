@@ -25,12 +25,17 @@ h2:hover{
     margin-top: 70px;
 }
 
-p {
+.description {
     text-align: center;
     color: white;
     font-size: 30px;
 }
 
+p{
+    color: white;
+    font-size: 30px;
+
+}
 .planets-2{
     font-size: 60px;
 }
