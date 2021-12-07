@@ -1,16 +1,16 @@
 ![Star Wars API]()
 
-<p align="center"> placeholder... </p>
+<p align="center"> Star Wars API </p>
 
-<p align="center"> :smile: </p>
+<p align="center"> :galaxy: </p>
 
 ## Description
 
-The theme behind ...
+The theme behind the Star Wars API is to educate users about different facts surrounding the Star Wars characters, planets and films. This websites is able to provide users with easy access to different categories surrounding the Star Wars film.  
 
 ## Preview
 
-![Travel Gallery]()
+![Star Wars Api]()
 
 [Live Preview](https://mariaalonzo16.github.io/star-wars-api/)
 

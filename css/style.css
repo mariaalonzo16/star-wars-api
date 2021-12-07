@@ -71,12 +71,6 @@ body {
     margin-bottom: 150px;
 }
 
-.container {
-    margin: 25px;
-    /* width: 350px; */
-    height: 200px;
-}
-
 .description {
     text-align: center;
     color: white;
@@ -103,8 +97,8 @@ footer{
     color: yellow;
     text-align: center;
     position: relative;
-    padding: 50px;
-    margin: 0px;
+    /* padding: 50px; */
+    margin: 50px;
 }
 
 .footer-2{
@@ -161,7 +155,6 @@ h3 {
 }
 
 main{
-    padding: 80px;
     margin: 50px 50px;
 }
 
@@ -191,6 +184,10 @@ p {
 
 span {
     color: white;
+}
+
+.scene{
+    font-size: 40px;
 }
 
 .title {
