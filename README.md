@@ -1,8 +1,8 @@
-![Star Wars API]()
+![Star Wars API](https://user-images.githubusercontent.com/93888269/145140576-086d9028-e7f9-4724-bdde-e0f712a83a8f.png)
 
 <p align="center"> Star Wars API </p>
 
-<p align="center"> :galaxy: </p>
+<p align="center"> :milky_way: :stars: :space_invader:</p>
 
 ## Description
 
