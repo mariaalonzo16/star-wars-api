@@ -1,25 +1,24 @@
 ![Star Wars API](https://user-images.githubusercontent.com/93888269/145145525-7f5ca0c3-75b0-4f9e-9a9b-1ac2d742f1b1.png)
 
-<p align="center"> Star Wars API </p>
+<p align="center">Star Wars API was created for users to have easy access to information about the Star Wars Saga.</p>
 
 <p align="center"> :milky_way: :space_invader: :stars: :space_invader: :rocket:</p>
 
 ## Description
 
-Star Wars API was created for users to have easy access to information about the Star Wars Saga.
-In this site, users are able to navigate through different pages to learn more about characters, films, and planets that are involved in the Star Wars Universe. On each page, users are able to easily access API data via onclick() button events.
+In this site, users are able to navigate through different pages to learn more about characters, films, and planets that are involved in the Star Wars Universe. On each page, users are able to easily access fetch API data via onclick() button events.
 
-Users are able to enjoy a consistent site layout that involves a header that hovers when the cursor gets near it. The hover effect is also noticeable when the cursor gets near the black and yellow buttons. Margins are consistent throughout each page. Offering a minimalistic site that users are able to enjoy.  
+Users are able to enjoy a consistent site layout that involves a header and different buttons that direct the user to their desire page . The hover effect is seen in multiple parts of each page to provide users with a better experience when navigating the site. Margins are consistent throughout each page, offering a minimalist site that users are able to enjoy.  
 
-## Preview
+<!-- ## Preview
 
 ![Star Wars Api]()
 
-[Live Preview](https://mariaalonzo16.github.io/star-wars-api/)
+[Live Preview](https://mariaalonzo16.github.io/star-wars-api/) -->
 
 ## Business Use Case
 
-- Will create high traffic for potential users interested in Star Wars.
+- Can generate traffic for potential users interested in Star Wars
 
 ## Status
 
@@ -33,11 +32,11 @@ Users are able to enjoy a consistent site layout that involves a header that hov
 
 - Clone the repo: `git clone https://github.com/mariaalonzo16/star-wars-api`
 
-## Usage
+<!-- ## Usage
 
 After the project files are downloaded, feel free to edit the HTML, CSS, and JavaScript files included with the `public` directory to 
 edit the website as you see fit. To preview the changes you make to the code, you can open 
-the `index.html` file in your web browser.
+the `index.html` file in your web browser. -->
 
 ## Roadmap
 
