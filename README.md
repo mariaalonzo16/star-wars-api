@@ -2,7 +2,7 @@
 
 <p align="center"> Star Wars API </p>
 
-<p align="center"> :milky_way: :stars: :space_invader:</p>
+<p align="center"> :milky_way: :space_invader: :stars: :space_invader: :rocket:</p>
 
 ## Description
 
