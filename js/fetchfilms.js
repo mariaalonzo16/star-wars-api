@@ -8,20 +8,7 @@ function getFilms () {
     .then(res => res.json())
     .then(data => {
         
-        // console.log(data.results)
-        console.log("data: ");
-        console.log(data);
-        console.log("_____");
-        console.log("data.results: ");
-        console.log(data.results);
-        console.log("_____");
-        console.log("data.results[3]: ");
-        console.log(data.results[3]);
-        console.log("_____");
-        console.log("data.results[3].release_date: ");
-        console.log(data.results[3].release_date);
-        
-
+        console.log(data.results)
         
         let count = 0;
 
@@ -47,9 +34,7 @@ function getFilms () {
                         <span class="bold"> Producer(s): </span> ${data.results[i].producer}
                     </p>
                 </div>`;
-
             films.innerHTML = films_list;
-
         }
 
     })

@@ -1,4 +1,4 @@
-![Star Wars API](https://user-images.githubusercontent.com/93888269/145140576-086d9028-e7f9-4724-bdde-e0f712a83a8f.png)
+![Star Wars API](https://user-images.githubusercontent.com/93888269/145145525-7f5ca0c3-75b0-4f9e-9a9b-1ac2d742f1b1.png)
 
 <p align="center"> Star Wars API </p>
 
@@ -9,6 +9,8 @@
 Star Wars API was created for users to have easy access to information about the Star Wars Saga.
 In this site, users are able to navigate through different pages to learn more about characters, films, and planets that are involved in the Star Wars Universe. On each page, users are able to easily access API data via onclick() button events.
 
+Users are able to enjoy a consistent site layout that involves a header that hovers when the cursor gets near it. The hover effect is also noticeable when the cursor gets near the black and yellow buttons. Margins are consistent throughout each page. Offering a minimalistic site that users are able to enjoy.  
+
 ## Preview
 
 ![Star Wars Api]()
@@ -17,9 +19,7 @@ In this site, users are able to navigate through different pages to learn more a
 
 ## Business Use Case
 
-- Users are able to learn about each character's characteristics; for example, hair color, height, gender, etc. With the large fan based that Star Wars has, users are able to learn details about their favorite characters.
-- Users are able to learn about the planets that are existent only on the Star Wars Universe. When users click "View Planets" they are able to find out about the terrain, population of the planet and other fun facts that users might find interesting. 
-- On the films page users are able to learn about the 6 episodes that Star Wars has released. The information included on this page details the full title of the episode, releases dates and the director of the episode. 
+- Will create high traffic for potential users interested in Star Wars.
 
 ## Status
 

@@ -49,9 +49,7 @@ function getCharacters () {
             </div>`;
 
             characters.innerHTML = characters_list;
-
         }
-
     })
     .catch((err) => {
         console.log("Request for Characters Rejected ---", err);
