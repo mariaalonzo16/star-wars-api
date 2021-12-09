@@ -6,9 +6,10 @@
 
 ## Description
 
-In this site, users are able to navigate through different pages to learn more about characters, films, and planets that are involved in the Star Wars Universe. On each page, users are able to easily access fetch API data via onclick() button events.
+In this site, users are able to navigate through different pages to learn more about characters, films, and planets that are involved in the Star Wars Universe. 
 
-Users are able to enjoy a consistent site layout that involves a header and different buttons that direct the user to their desire page . The hover effect is seen in multiple parts of each page to provide users with a better experience when navigating the site. Margins are consistent throughout each page, offering a minimalist site that users are able to enjoy.  
+On each linked page, a JavaScript GET request is issued and users are able to easily access fetch API data via onclick() button events. Moreover, users are able to enjoy a consistent site layout that involves a classically themed header and different buttons that direct the user to their desired page. Additionally, the Google Font Montserrat was applied for customized styling.
+
 
 <!-- ## Preview
 
@@ -19,6 +20,7 @@ Users are able to enjoy a consistent site layout that involves a header and diff
 ## Business Use Case
 
 - Can generate traffic for potential users interested in Star Wars
+- Use as prototype for future projects involving fetch API
 
 ## Status
 
@@ -32,11 +34,9 @@ Users are able to enjoy a consistent site layout that involves a header and diff
 
 - Clone the repo: `git clone https://github.com/mariaalonzo16/star-wars-api`
 
-<!-- ## Usage
+## Usage
 
-After the project files are downloaded, feel free to edit the HTML, CSS, and JavaScript files included with the `public` directory to 
-edit the website as you see fit. To preview the changes you make to the code, you can open 
-the `index.html` file in your web browser. -->
+After the project files are downloaded, feel free to edit the HTML, CSS, and JavaScript files. The HTML files can be found within the`pages` directory, while both CSS and JavaScript files can be found within the `public` directory. To preview the changes you make to the code, you can open the `index.html` root-directory file in your web browser.
 
 ## Roadmap
 
